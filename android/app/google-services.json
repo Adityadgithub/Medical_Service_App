@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144343252598",
+    "project_id": "parabolic-env-325307",
+    "storage_bucket": "parabolic-env-325307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144343252598:android:1b8acbc10e958e368de957",
+        "android_client_info": {
+          "package_name": "com.example.firebasetut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144343252598-i0g5m241gm6fecbenajb321fo9fd0eo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQQ5Xae7G7T1mGV1n2ktbxBkPOfbKEdsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144343252598-i0g5m241gm6fecbenajb321fo9fd0eo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
